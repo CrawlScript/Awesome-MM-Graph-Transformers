@@ -9,7 +9,7 @@ A curated list of Graph Transformers (Single & Multi-modal) — covering both Tr
 
 ## Traditional Graph Transformers
 
-- 🌈 [NTSFormer] NTSFormer: A Self-Teaching Graph Transformer for Multimodal Isolated Cold-Start Node Classification (AAAI 2026) - Hu, et al. [[Paper]](https://arxiv.org/abs/2507.04870) [[Code]](https://github.com/CrawlScript/NTSFormer)
+- 🌈 NTSFormer: A Self-Teaching Graph Transformer for Multimodal Isolated Cold-Start Node Classification (AAAI 2026) - Hu, et al. [[Paper]](https://arxiv.org/abs/2507.04870) [[Code]](https://github.com/CrawlScript/NTSFormer)
 
 - 🌈 Multimodal Graph Transformer for Multimodal Question Answering (EACL 2023) - He, et al. [[Paper]](https://aclanthology.org/2023.eacl-main.15/)
 
