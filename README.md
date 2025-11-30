@@ -13,7 +13,7 @@ A curated list of Graph Transformers (Single & Multi-modal) — covering both Tr
 - 🌈 **Multimodal Graph Transformer for Multimodal Question Answering** (EACL 2023) - He, et al. [[Paper]](https://aclanthology.org/2023.eacl-main.15/)
 
   
-- 🕸️ **HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer** (WWW 2023) - Mao, et al. [[paper]](https://arxiv.org/pdf/2302.11329) [[Code]](https://github.com/Ffffffffire/HINormer)
+- 🕸️ **HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer** (WWW 2023) - Mao, et al. [[Paper]](https://arxiv.org/pdf/2302.11329) [[Code]](https://github.com/Ffffffffire/HINormer)
 - 🕸️ `[Graphormer]`  **Do Transformers Really Perform Bad for Graph Representation?** (NeurIPS 2021) - Ying, et al. [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html) [[Code]](https://github.com/Microsoft/Graphormer)
 
 
