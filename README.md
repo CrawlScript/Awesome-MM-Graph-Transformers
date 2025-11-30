@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated list of Graph Transformers (Single & Multi-modal) — covering both Traditional Architectures and LLM-based Graph Learning (📝 Legend: 🕸️ Single-Modal, 🌈 Multi-Modal).
+A curated list of Graph Transformers (Single & Multi-modal) — covering both Traditional and LLM-based Graph Transformers (📝 Legend: 🕸️ Single-Modal, 🌈 Multi-Modal).
 
 
 
@@ -19,7 +19,7 @@ A curated list of Graph Transformers (Single & Multi-modal) — covering both Tr
 
 
 
-## LLM-based Graph Learning
+## LLM-based Graph Transformers
 
 - 🕸️ **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs** (AAAI 2026) - Li, et al. [[Paper]](https://arxiv.org/abs/2507.21653)
 
