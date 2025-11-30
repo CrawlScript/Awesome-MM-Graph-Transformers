@@ -13,3 +13,7 @@ A curated list of Graph Transformers (Single & Multi-modal) — covering both Tr
 
 ## LLM-based Graph Learning
 
+- 🕸️ **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs** (AAAI 2026) - Li, et al. [[Paper]](https://arxiv.org/abs/2507.21653)
+
+
+
