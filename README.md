@@ -15,6 +15,7 @@ A curated list of Graph Transformers (Single & Multi-modal) — covering both Tr
 
 - 🕸️ **SGFormer: Simplifying and Empowering Transformers for Large-Graph Representations** (NeurIPS 2023) - Wu, et al. [[Paper]](https://openreview.net/forum?id=R4xpvDTWkV) [[Code]](https://github.com/qitianwu/SGFormer) 
 - 🕸️ **HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer** (WWW 2023) - Mao, et al. [[Paper]](https://arxiv.org/pdf/2302.11329) [[Code]](https://github.com/Ffffffffire/HINormer)
+- 🕸️ `[GraphGPS]` **Recipe for a General, Powerful, Scalable Graph Transformer** (NeurIPS 2022) - Rampášek, et al. [[Paper]](https://openreview.net/forum?id=lMMaNf6oxKM) [[Code]](https://github.com/rampasek/GraphGPS)
 - 🕸️ `[Graphormer]`  **Do Transformers Really Perform Bad for Graph Representation?** (NeurIPS 2021) - Ying, et al. [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html) [[Code]](https://github.com/Microsoft/Graphormer)
 
 
